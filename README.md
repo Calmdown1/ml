@@ -39,3 +39,4 @@ data(features)와 label 레이블 값을 넣어줘야 함
 
 
 ![image](https://user-images.githubusercontent.com/105197372/177272737-9cab0c17-907f-4303-89bf-1d8d55dbcc33.png)
+![image](https://user-images.githubusercontent.com/105197372/177272961-32d2f358-7f7a-4281-ba70-026594d5498a.png)
