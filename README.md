@@ -38,4 +38,4 @@ data(features)와 label 레이블 값을 넣어줘야 함
 따라서 시드를 배정하는 것임
 
 
-[grogu_image](C:\Users\aeiou\OneDrive\바탕 화면\짤\그로구1.jpg)
+![image](https://user-images.githubusercontent.com/105197372/177272737-9cab0c17-907f-4303-89bf-1d8d55dbcc33.png)
