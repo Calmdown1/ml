@@ -36,3 +36,6 @@ data(features)와 label 레이블 값을 넣어줘야 함
 `**random_state**`는 학습데이터와 테스트데이터를 각 해당 데이터로 고정불변하게 하는 것
 
 따라서 시드를 배정하는 것임
+
+
+[grogu_image](C:\Users\aeiou\OneDrive\바탕 화면\짤\그로구1.jpg)
